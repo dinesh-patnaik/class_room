@@ -1,4 +1,4 @@
-package com.scaler;
+package com.august11;
 
 public class Eagle extends Bird{
     Eagle(String name, double weight, String color){

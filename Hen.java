@@ -1,4 +1,4 @@
-package com.scaler;
+package com.august11;
 
 public class Hen extends Bird{
     Hen(String name, double weight, String color){

@@ -1,4 +1,4 @@
-package com.scaler;
+package com.august11;
 
 abstract class TV implements Sellable{
     String brand;

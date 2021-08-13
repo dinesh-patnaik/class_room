@@ -1,4 +1,4 @@
-package com.scaler;
+package com.august11;
 
 public class Main {
 

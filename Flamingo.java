@@ -1,4 +1,4 @@
-package com.scaler;
+package com.august11;
 
 public class Flamingo extends Bird{
     Flamingo(String name, double weight, String color){
